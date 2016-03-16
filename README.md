@@ -90,9 +90,13 @@ NotaProyectoindividual = (E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1))/0.9
 El calendario tentativo de las entregas y sus ponderaciones se presentan a continuación:
 
 Entrega 1: Entrega: Viernes 1 de Abril a las 23:59 horas. (15%)
+
 Entrega 2: Entrega: Viernes 22 de Abril a las 23:59 horas. (25%)
+
 Entrega 3: Entrega: Viernes 20 de Mayo a las 23:59 horas. (30%)
+
 Entrega 4: Entrega: Viernes 17 de Junio a las 23:59 horas. (20%)
+
 Entrega 5: Entrega: Viernes 1 de Julio a las 12:00 horas. (10%)
 
 Se realizarán ayudantías especialmente enfocadas en capacitar a los alumnos en el uso de las herramientas
@@ -100,8 +104,11 @@ de software y hardware necesarias en el proyecto. El calendario tentativo de las
 continuación. Se avisará durante el semestre si se realizarán ayudantías adicionales a las aquí indicadas.
 
 Ayudantía 1: Lunes 28 de Marzo.
+
 Ayudantía 2: Lunes 18 de Abril.
+
 Ayudantía 3: Lunes 16 de Mayo.
+
 Ayudantía 4: Lunes 30 de Mayo.
 
 ## Contacto:
