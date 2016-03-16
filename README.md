@@ -1,9 +1,18 @@
-# syllabus
+## IIC2343 Arquitectura de Computadores (I/2016)
+Proyecto Semestral: implementación y programación de un computador básico
 
-IIC2343 Arquitectura de Computadores (I/2016)
-Proyecto Semestral
-Implementación y programación de un computador básico
+## Tabla de contenidos
+ * [Motivación](#motivación)
+     * [Profesor](#profesor)
+     * [Ayudantes](#ayudantes)
+ * [Acerca del curso](#acerca-del-curso) 
+ * [Contenidos](#contenidos)
+ * [Evaluación](#evaluación)
+     * [Evaluaciones escritas](#evaluaciones-escritas)
+     * [Tareas](#tareas)
+ * [Política de Integridad Académica](#política-de-integridad-académica)
 
+## Motivación
 1. Motivación:
 El objetivo principal de este curso es que el alumno entienda qué es un computador, conozca cuáles son
 sus partes y sus funcionesciones y sea capaz de realizar programas para el computador. Para lograr adquirir
@@ -71,11 +80,11 @@ Los alumnos que no cumplan con enviar la coevaluacion en el plazo asignado tend
 0.5 puntos en su nota de la entrega correspondiente.
 
 La nota individual del proyecto se calcula de la siguiente forma:
-NotaP royectoindividual = E10.15 + E20.25 + E30.3 + E40.2 + E50.1
+NotaP royectoindividual = E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1)
 
 Pero, si no realizan la entrega 5:
 
-NotaProyectoindividual = (E10.15+E20.25+E30.3+E40.2+E50.1)/0.9
+NotaProyectoindividual = (E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1))/0.9
 
 5. Planificación:
 
