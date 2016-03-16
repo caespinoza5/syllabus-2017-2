@@ -69,7 +69,9 @@ todos los puntos obtenidos por el integrante, sp, será utilizada para el cálcu
 que puede hacer que este repruebe el curso.
 
 La nota de cada entrega se calcula de la siguiente forma:
+
 NotaEntregaindividual = mín(kg*NotaEntregagrupal, NotaEntregagrupal + 0.5)
+
 donde,
 
 kg = sp+3
