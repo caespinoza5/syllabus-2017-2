@@ -3,17 +3,14 @@ Proyecto Semestral: implementación y programación de un computador básico
 
 ## Tabla de contenidos
  * [Motivación](#motivación)
-     * [Profesor](#profesor)
-     * [Ayudantes](#ayudantes)
- * [Acerca del curso](#acerca-del-curso) 
- * [Contenidos](#contenidos)
+ * [Descripción](#descripción) 
+ * [Metodología](#metodología)
  * [Evaluación](#evaluación)
-     * [Evaluaciones escritas](#evaluaciones-escritas)
-     * [Tareas](#tareas)
+ * [Fechas Importantes](#fechas-importantes)
+ * [Contacto](#contacto)
  * [Política de Integridad Académica](#política-de-integridad-académica)
 
 ## Motivación
-1. Motivación:
 El objetivo principal de este curso es que el alumno entienda qué es un computador, conozca cuáles son
 sus partes y sus funcionesciones y sea capaz de realizar programas para el computador. Para lograr adquirir
 estos conocimientos y habilidades se requiere por una parte adquirir el conocimiento teórico y conceptual de
@@ -21,7 +18,8 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica. El 
 a la parte práctica del curso, en la cual los alumnos deberán implementar un computador básico completo
 y desarrollar programas ocupando su computador.
 
-2. Descripción:
+
+## Descripción
 El proyecto consiste, en su primera etapa, en implementar un computador básico a nivel de hardware,
 utilizando los conocimientos vistos en clases. Dado que implementar todos los componentes del computador
 directamente con componentes físicos supera las habilidades enseñadas en el curso, se utilizarán FPGAs,
@@ -48,7 +46,7 @@ mayor parte de los elementos fundamentales vistos en el curso. Adicionalmente, h
 diversos programas escritos en el lenguaje propio de su computador, los cuales variarán desde programas
 simples de prueba a programas más avanzados con interacción del usuario.
 
-3. Metodología:
+## Metodología
 El proyecto será realizado en grupos de 5 alumnos, y estará divido en 5 entregas incrementales y
 todas son obligatorias excepto por la entrega 5, por lo que es fundamental que se avance lo solicitado en
 todas las entregas para no quedarse atrás. En cada entrega se solicitará enviar los archivos de los componentes
@@ -60,33 +58,34 @@ Al comenzar el semestre se le entregará a cada grupo una placa de desarrollo, l
 de la universidad. La placa debe ser tratada con sumo cuidado para evitar dañarla, y deberán
 devolverla al final del semestre en las mismas condiciones en que fue entregada.
 
-4. Evaluación
-Cada entrega del proyecto se evaluara de forma grupal y se ponderara por un porcentaje de coevaluacion
+## Evaluación
+Cada entrega del proyecto se evaluará de forma grupal y se ponderará por un porcentaje de coevaluación
 para calcular la nota de cada alumno.
 
 Dado lo anterior, dentro de las primeras 24 horas posteriores a cada entrega, todos los alumnos
-deberan completar de forma individual y obligatoria el formulario web que los ayudantes pondran a su
-dispocicion, repartiendo un maximo de 4 puntos, con hasta un decimal, entre sus compa~neros. La suma de
-todos los puntos obtenidos por el integrante, sp, será utilizada para el calculo de la nota de cada entrega, lo
+deberán completar de forma individual y obligatoria el formulario web que los ayudantes pondrán a su
+dispocición, repartiendo un máximo de 4 puntos, con hasta un decimal, entre sus compañeros. La suma de
+todos los puntos obtenidos por el integrante, sp, será utilizada para el cálculo de la nota de cada entrega, lo
 que puede hacer que este repruebe el curso.
 
 La nota de cada entrega se calcula de la siguiente forma:
-NotaEntregaindividual = mn(kg  NotaEntregagrupal;NotaEntregagrupal + 0; 5)
+NotaEntregaindividual = mín(kg*NotaEntregagrupal, NotaEntregagrupal + 0.5)
 donde,
 
 kg = sp+3
 
-Los alumnos que no cumplan con enviar la coevaluacion en el plazo asignado tendran un descuento de
+Los alumnos que no cumplan con enviar la coevaluación en el plazo asignado tendrán un descuento de
 0.5 puntos en su nota de la entrega correspondiente.
 
 La nota individual del proyecto se calcula de la siguiente forma:
-NotaP royectoindividual = E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1)
+
+NotaProyectoindividual = E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1)
 
 Pero, si no realizan la entrega 5:
 
 NotaProyectoindividual = (E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1))/0.9
 
-5. Planificación:
+## Fechas importantes:
 
 El calendario tentativo de las entregas y sus ponderaciones se presentan a continuación:
 
@@ -100,12 +99,31 @@ Se realizarán ayudantías especialmente enfocadas en capacitar a los alumnos en
 de software y hardware necesarias en el proyecto. El calendario tentativo de las ayudantías se presenta a
 continuación. Se avisará durante el semestre si se realizarán ayudantías adicionales a las aquí indicadas.
 
-Ayudanta 1: Lunes 28 de Marzo.
-Ayudanta 2: Lunes 18 de Abril.
-Ayudanta 3: Lunes 16 de Mayo.
-Ayudanta 4: Lunes 30 de Mayo.
+Ayudantía 1: Lunes 28 de Marzo.
+Ayudantía 2: Lunes 18 de Abril.
+Ayudantía 3: Lunes 16 de Mayo.
+Ayudantía 4: Lunes 30 de Mayo.
 
-6. Contacto:
+## Contacto:
 
 Francesca Lucchini - flucchini@uc.cl
+
+## Política de integridad académica
+
+Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
+
+---
+
+Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que **mantengan altos estándares de honestidad académica**.  Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería (disponible en SIDING).
+
+Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
+
+**En particular, si un alumno copia un trabajo, o si a un alumno se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Docencia de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.**
+
+Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona.  **En caso que corresponda a “copia” a otros alumnos, la sanción anterior se aplicará a todos los involucrados**.  En todos los casos, se informará a la Dirección de Docencia de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente. Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente y sea autorizado por los ayudantes.
+
+Lo anterior se entiende como complemento al Reglamento del Alumno de la Pontificia Universidad Católica de 
+Chile<sup><a name="pucCLBack">[1](#pucCL)</a></sup>.  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
+
+<sub>**<a name="pucCL">[1](#pucCL)</a>**: Reglamento del Alumno de la Pontificia Universidad Católica de Chile disponible en: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles [&#8593;](#pucCLBack)</sub>
 
