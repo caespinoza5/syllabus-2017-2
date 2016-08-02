@@ -1,4 +1,4 @@
-## IIC2343 Arquitectura de Computadores (I/2016)
+## IIC2343 Arquitectura de Computadores (II/2016)
 Proyecto Semestral: implementación y programación de un computador básico
 
 ## Tabla de contenidos
@@ -64,7 +64,7 @@ para calcular la nota de cada alumno.
 
 Dado lo anterior, dentro de las primeras 24 horas posteriores a cada entrega, todos los alumnos
 deberán completar de forma individual y obligatoria el formulario web que los ayudantes pondrán a su
-dispocición, repartiendo un máximo de 4 puntos, con hasta un decimal, entre sus compañeros. La suma de
+dispocición, repartiendo un máximo de 4 puntos (o un máximo de número de compañeros, o sea, si en el grupo son 4, reparten 3 puntos) , con hasta un decimal, entre sus compañeros. La suma de
 todos los puntos obtenidos por el integrante, sp, será utilizada para el cálculo de la nota de cada entrega, lo
 que puede hacer que este repruebe el curso.
 
@@ -74,7 +74,7 @@ NotaEntregaindividual = mín(kg*NotaEntregagrupal, NotaEntregagrupal + 0.5)
 
 donde,
 
-kg = sp+3
+kg = (sp + 7 - númeroDeCompañeros)/7
 
 Los alumnos que no cumplan con enviar la coevaluación en el plazo asignado tendrán un descuento de
 0.5 puntos en su nota de la entrega correspondiente.
@@ -91,27 +91,27 @@ NotaProyectoindividual = (E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1))/0.9
 
 El calendario tentativo de las entregas y sus ponderaciones se presentan a continuación:
 
-Entrega 1: Entrega: Viernes 1 de Abril a las 23:59 horas. (15%)
+Entrega 1: Entrega: (15%)
 
-Entrega 2: Entrega: Viernes 22 de Abril a las 23:59 horas. (25%)
+Entrega 2: Entrega: (25%)
 
-Entrega 3: Entrega: Viernes 20 de Mayo a las 23:59 horas. (30%)
+Entrega 3: Entrega: (30%)
 
-Entrega 4: Entrega: Viernes 17 de Junio a las 23:59 horas. (20%)
+Entrega 4: Entrega: (20%)
 
-Entrega 5: Entrega: Viernes 1 de Julio a las 12:00 horas. (10%)
+Entrega 5: Entrega: (10%)
 
 Se realizarán ayudantías especialmente enfocadas en capacitar a los alumnos en el uso de las herramientas
 de software y hardware necesarias en el proyecto. El calendario tentativo de las ayudantías se presenta a
 continuación. Se avisará durante el semestre si se realizarán ayudantías adicionales a las aquí indicadas.
 
-Ayudantía 1: Lunes 28 de Marzo.
+Ayudantía 1: 
 
-Ayudantía 2: Lunes 18 de Abril.
+Ayudantía 2: 
 
-Ayudantía 3: Lunes 16 de Mayo.
+Ayudantía 3: 
 
-Ayudantía 4: Lunes 30 de Mayo.
+Ayudantía 4: 
 
 ## Contacto:
 
