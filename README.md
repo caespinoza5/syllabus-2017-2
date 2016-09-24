@@ -116,6 +116,7 @@ Ayudantía 4:
 ## Contacto:
 
 Francesca Lucchini - flucchini@uc.cl
+Felipe Ignacio Pezoa - fipezoa@uc.cl
 
 ## Política de integridad académica
 
