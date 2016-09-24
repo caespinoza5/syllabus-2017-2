@@ -101,17 +101,8 @@ Entrega 4: Entrega: (20%)
 
 Entrega 5: Entrega: (10%)
 
-Se realizarán ayudantías especialmente enfocadas en capacitar a los alumnos en el uso de las herramientas
-de software y hardware necesarias en el proyecto. El calendario tentativo de las ayudantías se presenta a
-continuación. Se avisará durante el semestre si se realizarán ayudantías adicionales a las aquí indicadas.
-
-Ayudantía 1: 
-
-Ayudantía 2: 
-
-Ayudantía 3: 
-
-Ayudantía 4: 
+Se podrían realizar ayudantías especialmente enfocadas en capacitar a los alumnos en el uso de las herramientas
+de software y hardware necesarias en el proyecto. Se avisará durante el semestre si se realizarán ayudantías.
 
 ## Contacto:
 
