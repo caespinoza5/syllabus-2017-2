@@ -100,9 +100,9 @@ de software y hardware necesarias en el proyecto. Se avisará durante el semestr
 
 ## Contacto:
 
-Francesca Lucchini - flucchini@uc.cl
-Felipe Ignacio Pezoa - fipezoa@uc.cl
-Hernán Felipe Valdivieso - hfvaldivieso@uc.cl 
+- Francesca Lucchini - flucchini@uc.cl
+- Felipe Ignacio Pezoa - fipezoa@uc.cl
+- Hernán Felipe Valdivieso - hfvaldivieso@uc.cl 
 
 ## Política de integridad académica
 
