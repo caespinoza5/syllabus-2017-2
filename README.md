@@ -81,11 +81,7 @@ Los alumnos que no cumplan con enviar la coevaluación en el plazo asignado tend
 
 La nota individual del proyecto se calcula de la siguiente forma:
 
-NotaProyectoindividual = E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1)
-
-Pero, si no realizan la entrega 5:
-
-NotaProyectoindividual = (E1(0.15) + E2(0.25) + E3(0.3) + E4(0.2) + E5(0.1))/0.9
+NotaProyectoindividual = E1(0.15) + E2(0.25) + E3(0.3) + E4(0.3)
 
 ## Fechas importantes:
 
@@ -97,9 +93,7 @@ Entrega 2: Entrega: (25%)
 
 Entrega 3: Entrega: (30%)
 
-Entrega 4: Entrega: (20%)
-
-Entrega 5: Entrega: (10%)
+Entrega 4: Entrega: (30%)
 
 Se podrían realizar ayudantías especialmente enfocadas en capacitar a los alumnos en el uso de las herramientas
 de software y hardware necesarias en el proyecto. Se avisará durante el semestre si se realizarán ayudantías.
@@ -108,6 +102,7 @@ de software y hardware necesarias en el proyecto. Se avisará durante el semestr
 
 Francesca Lucchini - flucchini@uc.cl
 Felipe Ignacio Pezoa - fipezoa@uc.cl
+Hernán Felipe Valdivieso - hfvaldivieso@uc.cl 
 
 ## Política de integridad académica
 
