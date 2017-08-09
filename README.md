@@ -1,4 +1,4 @@
-## IIC2343 Arquitectura de Computadores (II/2016)
+## IIC2343 Arquitectura de Computadores (II/2017)
 Proyecto Semestral: implementación y programación de un computador básico
 
 ## Tabla de contenidos
@@ -67,36 +67,6 @@ deberán completar de forma individual y obligatoria el formulario web que los a
 dispocición, repartiendo un máximo de 4 puntos (o un máximo de número de compañeros, o sea, si en el grupo son 4, reparten 3 puntos) , con hasta un decimal, entre sus compañeros. La suma de
 todos los puntos obtenidos por el integrante, sp, será utilizada para el cálculo de la nota de cada entrega, lo
 que puede hacer que este repruebe el curso.
-
-La nota de cada entrega se calcula de la siguiente forma:
-
-NotaEntregaindividual = mín(kg*NotaEntregagrupal, NotaEntregagrupal + 0.5)
-
-donde,
-
-kg = (sp + 7 - númeroDeCompañeros)/7
-
-Los alumnos que no cumplan con enviar la coevaluación en el plazo asignado tendrán un descuento de
-0.5 puntos en su nota de la entrega correspondiente.
-
-La nota individual del proyecto se calcula de la siguiente forma:
-
-NotaProyectoindividual = E1(0.15) + E2(0.25) + E3(0.3) + E4(0.3)
-
-## Fechas importantes:
-
-El calendario tentativo de las entregas y sus ponderaciones se presentan a continuación:
-
-Entrega 1: Entrega: (15%)
-
-Entrega 2: Entrega: (25%)
-
-Entrega 3: Entrega: (30%)
-
-Entrega 4: Entrega: (30%)
-
-Se podrían realizar ayudantías especialmente enfocadas en capacitar a los alumnos en el uso de las herramientas
-de software y hardware necesarias en el proyecto. Se avisará durante el semestre si se realizarán ayudantías.
 
 ## Contacto:
 
