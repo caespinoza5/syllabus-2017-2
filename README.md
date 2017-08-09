@@ -1,12 +1,8 @@
-## IIC2343 Arquitectura de Computadores (II/2017)
+## IIC2343 Arquitectura de Computadores
 Proyecto Semestral: implementación y programación de un computador básico
 
 ## Tabla de contenidos
  * [Motivación](#motivación)
- * [Descripción](#descripción) 
- * [Metodología](#metodología)
- * [Evaluación](#evaluación)
- * [Fechas Importantes](#fechas-importantes)
  * [Contacto](#contacto)
  * [Política de Integridad Académica](#política-de-integridad-académica)
 
@@ -18,64 +14,12 @@ lo que es un computador, pero también ser capaz de llevarlo a la práctica. El 
 a la parte práctica del curso, en la cual los alumnos deberán implementar un computador básico completo
 y desarrollar programas ocupando su computador.
 
-
-## Descripción
-El proyecto consiste, en su primera etapa, en implementar un computador básico a nivel de hardware,
-utilizando los conocimientos vistos en clases. Dado que implementar todos los componentes del computador
-directamente con componentes físicos supera las habilidades enseñadas en el curso, se utilizarán FPGAs,
-que son componentes de hardware que permiten programar en software los circuitos para luego traspasarlos
-automáticamente al hardware y emularlos.
-
-En particular, se ocupará para desarrollar el proyecto la placa de desarrollo Basys3 de Digilent, la cual
-cuenta con un FPGA Xilinx Artix-7, una pantalla LED, botones e interruptores. Esta placa puede ser
-programada mediante el ambiente de desarrollo Vivado WebPack de Xilinx, a través del cual se deberán
-programar los componentes del computador, para luego enviarlos a la placa, que se encargará automáticamente
-de generar las conexiones necesarias para construir la representación física de dichos componentes.
-De esta forma, los alumnos trabajarán a nivel lógico sólo con elementos de software, pero podrán probar sus
-componentes con hardware real.
-
-El proyecto consistirá en entregas incrementales que permitirán a los alumnos construir poco a poco el
-computador, yendo a la par con la materia vista en el curso. Una vez que se complete un computador funcional
-se agregará el elemento de programación del computador, para lo cual se les pedirá escribir programas
-que puedan ser ejecutados en este, cumpliendo distintas funciones según sean solicitadas. Estos programas
-irán aumentando en dificultad a través de las entregas, según las nuevas capacidades que se vayan agregando
-en paralelo a el computador.
-
-Al analizar el semestre los alumnos habrán desarrollado un computador enteramente funcional, con la
-mayor parte de los elementos fundamentales vistos en el curso. Adicionalmente, habrán también desarrollado
-diversos programas escritos en el lenguaje propio de su computador, los cuales variarán desde programas
-simples de prueba a programas más avanzados con interacción del usuario.
-
-## Metodología
-El proyecto será realizado en grupos de 5 alumnos, y estará divido en 5 entregas incrementales y
-todas son obligatorias excepto por la entrega 5, por lo que es fundamental que se avance lo solicitado en
-todas las entregas para no quedarse atrás. En cada entrega se solicitará enviar los archivos de los componentes
-de hardware implementados, un informe evaluado y, cuando corresponda, los archivos de los programas
-desarrollados. Todos los archivos solicitados deben estar presentes en la rama Master de un repositorio Git
-que se les asignará.
-
-Al comenzar el semestre se le entregará a cada grupo una placa de desarrollo, la cual podrán usar fuera
-de la universidad. La placa debe ser tratada con sumo cuidado para evitar dañarla, y deberán
-devolverla al final del semestre en las mismas condiciones en que fue entregada.
-
-## Evaluación
-Cada entrega del proyecto se evaluará de forma grupal y se ponderará por un porcentaje de coevaluación
-para calcular la nota de cada alumno.
-
-Dado lo anterior, dentro de las primeras 24 horas posteriores a cada entrega, todos los alumnos
-deberán completar de forma individual y obligatoria el formulario web que los ayudantes pondrán a su
-dispocición, repartiendo un máximo de 4 puntos (o un máximo de número de compañeros, o sea, si en el grupo son 4, reparten 3 puntos) , con hasta un decimal, entre sus compañeros. La suma de
-todos los puntos obtenidos por el integrante, sp, será utilizada para el cálculo de la nota de cada entrega, lo
-que puede hacer que este repruebe el curso.
-
 ## Contacto:
-
 - Francesca Lucchini - flucchini@uc.cl
 - Felipe Ignacio Pezoa - fipezoa@uc.cl
 - Hernán Felipe Valdivieso - hfvaldivieso@uc.cl 
 
 ## Política de integridad académica
-
 Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
 
 ---
