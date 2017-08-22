@@ -1,4 +1,4 @@
-## IIC2343 Arquitectura de Computadores
+﻿## IIC2343 Arquitectura de Computadores
 Proyecto Semestral: implementación y programación de un computador básico
 
 ## Tabla de contenidos
@@ -18,6 +18,7 @@ y desarrollar programas ocupando su computador.
 - Francesca Lucchini - flucchini@uc.cl
 - Felipe Ignacio Pezoa - fipezoa@uc.cl
 - Hernán Felipe Valdivieso - hfvaldivieso@uc.cl 
+- Luis Leiva Sanchez - lileiva@uc.cl 
 
 ## Política de integridad académica
 Este curso se adscribe a la política de integridad académica de la Escuela de Ingeniería y el Departamento de Computación.
