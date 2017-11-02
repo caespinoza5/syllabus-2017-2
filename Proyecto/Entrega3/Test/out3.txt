@@ -1,3 +1,6 @@
+ /* Nota: este output no considera que al leer puertos de input que no existen
+ *  se guarda un 0 en los registros
+ */
  N° | PC    Instrucción [RegA|RegB]
 ----------------------------------
 0001|0000   MOV B,0    [0000|0000]
